@@ -1,2 +1,2 @@
 
-This repository contains my LAB assigments from the course DVA117, which was my first programing course.
+This repository contains my LAB6-7 assigments from the course Basic level programming in C.
