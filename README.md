@@ -1,3 +1,5 @@
-
-This repository contains my LAB6-7 assigments from the course Basic level programming in C.
-In the course i learnd about basic programming, pointers, arrays, functions, modulu, heap/stack, memory allocation and alot more.
+# Programming
+The course will teach fundamental knowledge in structured programming and program construction in a high level programming language.
+# Course content
+Programming: basic knowledge in structured programming as well as problem solving and debugging.
+The programming language: basic language concepts such as data types, logical operations, selection, iteration, functions, call-by-value, call-by-reference, recursion, arrays, data structures, strings, input and output, file handling and dynamic memory management.
